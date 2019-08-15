@@ -21,6 +21,7 @@ int funcao1(){
 
 int funcao2(){
 
+printf("Emanuelle");
 
 }
 
