@@ -16,7 +16,7 @@ int main(){
 }
 
 int funcao1(){
-	printf("Meu nome eh Bruno\n");
+
 }
 
 int funcao2(){
