@@ -16,7 +16,7 @@ int main(){
 }
 
 int funcao1(){
-
+    printf("raquel aaa");
 }
 
 int funcao2(){
