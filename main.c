@@ -25,6 +25,6 @@ int funcao2(){
 }
 
 int funcao3(){
-
+    printf(oi, meu nome e ana);
 
 }
