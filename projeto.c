@@ -131,6 +131,7 @@ void funcaoGABRIEL_FERNANDES()
 
 void funcaoIAN_BIANQUINI()
 {
+	
 }
 
 void funcaoISABELLA_AZEVEDO()
@@ -199,7 +200,7 @@ void funcaoRHAYAN_FREITAS()
 
 void funcaoSAULO_NERY()
 {
-	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne?");
+	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne? AAAAAAAAAAAAAAAAAhhhhhyhhhhhhh");
 }
 
 void funcaoTHIAGO_OLIVEIRA()
