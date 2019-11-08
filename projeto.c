@@ -86,7 +86,7 @@ void funcaoVICTOR_LOMBA()
 
 void funcaoWELLINGTON_PEDRO()
 {
-	printf("Wellington Wanderosfky");
+	printf("Wellington Wanderosfky, bonito pra caramba");
 }
 
 void funcaoYURI_SILVA()
