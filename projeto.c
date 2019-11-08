@@ -1,12 +1,11 @@
 #include <iostream>
-#include<string>
+
 using namespace std;
 
 void funcaoANNA_CHAZAN()
 {
     printf("Ola, sou Anna Chazan");
 }
-
 
 void funcaoARTUR_OLIVEIRA()
 {
@@ -100,7 +99,6 @@ void funcaoYURI_SILVA()
 
 void funcaoANA_PORTO()
 {
-	printf("Naclara linda do meu coracao");
 }
 
 void funcaoCALEBE_LUZ()
@@ -109,7 +107,6 @@ void funcaoCALEBE_LUZ()
 
 void funcaoCARLOS_BANJAR()
 {
-    printf("Ola, sou Carlos Eduardo Banjar");
 }
 
 void funcaoCAUA_JUNGER()
@@ -126,7 +123,6 @@ void funcaoEVELLYN_ORTEGA()
 
 void funcaoFILIPE_EVANGELISTA()
 {
-	printf("aopa, sou Filipe Evangelista");
 }
 
 void funcaoGABRIEL_FERNANDES()
@@ -135,7 +131,6 @@ void funcaoGABRIEL_FERNANDES()
 
 void funcaoIAN_BIANQUINI()
 {
-	
 }
 
 void funcaoISABELLA_AZEVEDO()
@@ -164,7 +159,6 @@ void funcaoLUCAS_BADINI()
 
 void funcaoLUCIUS_SILVA()
 {
-	printf("Lucius o mais brabo meno");
 }
 
 void funcaoMARIA_SANGLARD()
@@ -181,7 +175,6 @@ void funcaoMARIA_JIQUIRIÇÁ()
 
 void funcaoMARIANA_FARIA()
 {
-    printf("Ola mundo, me chamo Mariana");
 }
 
 void funcaoMAYSA_AQUINO()
@@ -190,15 +183,16 @@ void funcaoMAYSA_AQUINO()
 
 void funcaoMYLENA_PIMENTEL()
 {
+
 }
 
 void funcaoPEDRO_CARDINOT()
 {
+	printf("Ola, sou Pedro KEPLER Lage Cardinot");
 }
 
 void funcaoRAFAEL_BADINI()
 {
-	printf("AOPA meu campe�o");
 }
 
 void funcaoRHAYAN_FREITAS()
@@ -207,7 +201,6 @@ void funcaoRHAYAN_FREITAS()
 
 void funcaoSAULO_NERY()
 {
-	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne? AAAAAAAAAAAAAAAAAhhhhhyhhhhhhh");
 }
 
 void funcaoTHIAGO_OLIVEIRA()
@@ -225,9 +218,6 @@ int main(){
   cout << "Olá mundo!";
 
   funcao_Professor();
-  funcaoMARIANA_FARIA();
-
-
 
   return 0;
 }
