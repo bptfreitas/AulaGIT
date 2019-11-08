@@ -115,6 +115,7 @@ void funcaoCAUA_JUNGER()
 
 void funcaoDOUGLAS_RIBEIRO()
 {
+	printf(".");
 }
 
 void funcaoEVELLYN_ORTEGA()
@@ -185,7 +186,11 @@ void funcaoMAYSA_AQUINO()
 
 void funcaoMYLENA_PIMENTEL()
 {
+<<<<<<< HEAD
+    printf("Eu sou Mylena");
+=======
 
+>>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
 }
 
 void funcaoPEDRO_CARDINOT()
@@ -203,6 +208,10 @@ void funcaoRHAYAN_FREITAS()
 
 void funcaoSAULO_NERY()
 {
+<<<<<<< HEAD
+	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne? AAAAAAAAAAAAAAAAAhhhhhyhhhhhhhz \nbh jklzx bfhyipqeadgb kjzxdgnj");
+=======
+>>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
 }
 
 void funcaoTHIAGO_OLIVEIRA()
@@ -215,11 +224,13 @@ void funcaoVICTOR_STUTZ()
 {
 }
 
+
 int main(){
 
   cout << "OlÃ¡ mundo!";
 
   funcao_Professor();
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
@@ -227,7 +238,22 @@ int main(){
   funcaoMARIANA_FARIA();
   funcaoMARIA_JIQUIRIÃ‡Ã();
 
+=======
+<<<<<<< HEAD
+  funcaoMYLENA_PIMENTEL();
+=======
+=======
+>>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
+  funcaoMARIANA_FARIA();
+  funcaoMARIA_JIQUIRIÃ‡Ã();
+  funcaoDOUGLAS_RIBEIRO();
+  
+>>>>>>> 8f527480583717293fa3ee522636530099da4cb8
 
+<<<<<<< HEAD
+
+>>>>>>> 261ddb5202ee2c98210154d03444460848d70dd6
+=======
 =======
 >>>>>>> 1c9a7fb7fd6e15ac500717135bc36f81cba9e4e2
 >>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
