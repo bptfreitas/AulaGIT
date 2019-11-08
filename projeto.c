@@ -20,6 +20,7 @@ void funcaoCAIO_SIQUEIRA()
 
 void funcaoEDUARDO_SILVA()
 {
+    printf("Ola, sou Eduardo Costa");
 }
 
 void funcaoGABRIEL_SANTOS()
@@ -36,6 +37,7 @@ void funcaoJOÃO_CONCEIÇÃO()
 
 void funcaoLUCAS_LIMA()
 {
+    printf("Oi eu sou o Lucas Sancho Lima");
 }
 
 void funcaoLUIZA_ELLER()
@@ -77,6 +79,7 @@ void funcaoTHAIS_WERMELINGER()
 
 void funcaoVICTOR_LOMBA()
 {
+	printf("eu, victor Aquino de Avellar Lacerda Lomba");
 }
 
 void funcaoWELLINGTON_PEDRO()
