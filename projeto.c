@@ -107,6 +107,7 @@ void funcaoCALEBE_LUZ()
 
 void funcaoCARLOS_BANJAR()
 {
+    printf("Ola, sou Carlos Eduardo Banjar");
 }
 
 void funcaoCAUA_JUNGER()
