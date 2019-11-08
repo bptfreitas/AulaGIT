@@ -207,7 +207,9 @@ void funcaoSAULO_NERY()
 
 void funcaoTHIAGO_OLIVEIRA()
 {
+cout<<"Oi. Sou o THiago Durso.";
 }
+
 
 void funcaoVICTOR_STUTZ()
 {
