@@ -59,6 +59,7 @@ void funcaoMARCO_NETTO()
 
 void funcaoMARIA_PACHECO()
 {
+    cout<<"Hi word, my name is Maria Coimbra";
 }
 
 void funcaoMARIA_COIMBRA()
