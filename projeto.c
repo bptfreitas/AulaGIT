@@ -175,6 +175,7 @@ void funcaoMARIA_JIQUIRIÇÁ()
 
 void funcaoMARIANA_FARIA()
 {
+    printf("Ola mundo, me chamo Mariana");
 }
 
 void funcaoMAYSA_AQUINO()
@@ -214,6 +215,8 @@ int main(){
   cout << "Olá mundo!";
 
   funcao_Professor();
+  funcaoMARIANA_FARIA();
+
 
   return 0;
 }
