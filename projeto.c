@@ -76,6 +76,7 @@ void funcaoTHAIS_WERMELINGER()
 
 void funcaoVICTOR_LOMBA()
 {
+	printf("eu, victor Aquino de Avellar Lacerda Lomba");
 }
 
 void funcaoWELLINGTON_PEDRO()	
