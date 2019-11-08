@@ -237,7 +237,6 @@ int main(){
 >>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
   funcaoMARIANA_FARIA();
   funcaoMARIA_JIQUIRIÃ‡Ã();
-  funcaoDOUGLAS_RIBEIRO();
   
 
 <<<<<<< HEAD
