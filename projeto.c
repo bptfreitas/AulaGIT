@@ -21,13 +21,14 @@ void funcaoCAIO_SIQUEIRA()
 
 void funcaoEDUARDO_SILVA()
 {
+    printf("Ola, sou Eduardo Costa");
 }
 
-void funcaoGABRIEL_SANTOS()	
+void funcaoGABRIEL_SANTOS()
 {
 }
 
-void funcaoGUILHERME_ROSA()	
+void funcaoGUILHERME_ROSA()
 {
 }
 
@@ -37,29 +38,31 @@ void funcaoJOÃO_CONCEIÇÃO()
 
 void funcaoLUCAS_LIMA()
 {
+    printf("Oi eu sou o Lucas Sancho Lima");
 }
 
-void funcaoLUIZA_ELLER()	
+void funcaoLUIZA_ELLER()
+{
+    printf("olá, sou luiza");
+}
+
+void funcaoLUIZA_FRIAS()
 {
 }
 
-void funcaoLUIZA_FRIAS()	
+void funcaoMARCO_NETTO()
 {
 }
 
-void funcaoMARCO_NETTO()	
+void funcaoMARIA_PACHECO()
 {
 }
 
-void funcaoMARIA_PACHECO()	
+void funcaoMARIA_COIMBRA()
 {
 }
 
-void funcaoMARIA_COIMBRA()	
-{
-}
-
-void funcaoREBECA_PEREIRA()	
+void funcaoREBECA_PEREIRA()
 {
 }
 
@@ -77,13 +80,15 @@ void funcaoTHAIS_WERMELINGER()
 
 void funcaoVICTOR_LOMBA()
 {
+	printf("eu, victor Aquino de Avellar Lacerda Lomba");
 }
 
-void funcaoWELLINGTON_PEDRO()	
+void funcaoWELLINGTON_PEDRO()
 {
+	printf("Wellington Wanderosfky");
 }
 
-void funcaoYURI_SILVA()	
+void funcaoYURI_SILVA()
 {
 }
 
@@ -91,7 +96,7 @@ void funcaoANA_PORTO()
 {
 }
 
-void funcaoCALEBE_LUZ()	
+void funcaoCALEBE_LUZ()
 {
 }
 
@@ -99,7 +104,7 @@ void funcaoCARLOS_BANJAR()
 {
 }
 
-void funcaoCAUA_JUNGER()	
+void funcaoCAUA_JUNGER()
 {
 }
 
@@ -200,10 +205,10 @@ void funcaoVICTOR_STUTZ()
 }
 
 int main(){
-	
+
   cout << "Olá mundo!";
-  
+
   funcao_Professor();
-  
+
   return 0;
 }
