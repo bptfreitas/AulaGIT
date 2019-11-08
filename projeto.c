@@ -31,7 +31,7 @@ void funcaoGABRIEL_SANTOS()
 }
 
 void funcaoGUILHERME_ROSA()
-{
+{printf("Ola, sou Gui");
 }
 
 void funcaoJOÃO_CONCEIÇÃO()
