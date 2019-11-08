@@ -13,6 +13,7 @@ void funcaoARTUR_OLIVEIRA()
 
 void funcaoCAIO_FARIAS()
 {
+	printf("Ola, sou Caio Farias");
 }
 
 void funcaoCAIO_SIQUEIRA()
