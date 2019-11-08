@@ -206,6 +206,10 @@ void funcaoRHAYAN_FREITAS()
 
 void funcaoSAULO_NERY()
 {
+<<<<<<< HEAD
+	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne? AAAAAAAAAAAAAAAAAhhhhhyhhhhhhhz \nbh jklzx bfhyipqeadgb kjzxdgnj");
+=======
+>>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
 }
 
 void funcaoTHIAGO_OLIVEIRA()
