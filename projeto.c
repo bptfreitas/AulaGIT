@@ -24,6 +24,7 @@ void funcaoEDUARDO_SILVA()
 
 void funcaoGABRIEL_SANTOS()	
 {
+	cout<<"Eu, Gabriel santos, implementei a função:";
 }
 
 void funcaoGUILHERME_ROSA()	
