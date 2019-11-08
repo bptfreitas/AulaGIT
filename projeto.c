@@ -115,6 +115,7 @@ void funcaoCAUA_JUNGER()
 
 void funcaoDOUGLAS_RIBEIRO()
 {
+	printf(".");
 }
 
 void funcaoEVELLYN_ORTEGA()
@@ -226,6 +227,7 @@ int main(){
 <<<<<<< HEAD
   funcaoMARIANA_FARIA();
   funcaoMARIA_JIQUIRIÃ‡Ã();
+  funcaoDOUGLAS_RIBEIRO();
   
 
 =======
