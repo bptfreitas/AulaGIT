@@ -4,6 +4,7 @@ using namespace std;
 
 void funcaoANNA_CHAZAN()
 {
+    printf("Ola, sou Anna Chazan");
 }
 
 void funcaoARTUR_OLIVEIRA()
@@ -72,6 +73,7 @@ void funcaoREBECA_FERNANDES()
 
 void funcaoSEBASTIÃO_NETO()
 {
+	printf("Ola, meu nome eh Sebastiao Neto! Bem vindo")
 }
 
 void funcaoTHAIS_WERMELINGER()
@@ -85,7 +87,7 @@ void funcaoVICTOR_LOMBA()
 
 void funcaoWELLINGTON_PEDRO()
 {
-	printf("Wellington Wanderosfky");
+	printf("Wellington Wanderosfky, bonito pra caramba");
 }
 
 void funcaoYURI_SILVA()
