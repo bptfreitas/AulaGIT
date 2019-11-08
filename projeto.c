@@ -27,6 +27,7 @@ void funcaoEDUARDO_SILVA()
 
 void funcaoGABRIEL_SANTOS()
 {
+	cout<<"Eu, Gabriel santos, implementei a função:";
 }
 
 void funcaoGUILHERME_ROSA()
@@ -74,6 +75,7 @@ void funcaoREBECA_FERNANDES()
 
 void funcaoSEBASTIÃO_NETO()
 {
+	printf("Ola, meu nome eh Sebastiao Neto! Bem vindo")
 }
 
 void funcaoTHAIS_WERMELINGER()
