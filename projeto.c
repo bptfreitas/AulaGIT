@@ -184,10 +184,12 @@ void funcaoMAYSA_AQUINO()
 
 void funcaoMYLENA_PIMENTEL()
 {
+
 }
 
 void funcaoPEDRO_CARDINOT()
 {
+	printf("Ola, sou Pedro KEPLER Lage Cardinot");
 }
 
 void funcaoRAFAEL_BADINI()
