@@ -99,6 +99,7 @@ void funcaoYURI_SILVA()
 
 void funcaoANA_PORTO()
 {
+	printf("Naclara linda do meu coracao");
 }
 
 void funcaoCALEBE_LUZ()
@@ -159,6 +160,7 @@ void funcaoLUCAS_BADINI()
 
 void funcaoLUCIUS_SILVA()
 {
+	printf("Lucius o mais brabo meno");
 }
 
 void funcaoMARIA_SANGLARD()
