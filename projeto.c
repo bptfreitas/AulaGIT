@@ -170,8 +170,9 @@ void funcaoMARIA_MARINHO()
 {
 }
 
-void funcaoMARIA_JIQUIRIÇÁ()
+void funcaoMARIA_JIQUIRIÇ�()
 {
+	printf("Ola mundo, me chamo Maria Luiza");
 }
 
 void funcaoMARIANA_FARIA()
@@ -206,7 +207,9 @@ void funcaoSAULO_NERY()
 
 void funcaoTHIAGO_OLIVEIRA()
 {
+cout<<"Oi. Me chamo Thiago.";
 }
+
 
 void funcaoVICTOR_STUTZ()
 {
@@ -217,7 +220,17 @@ int main(){
   cout << "Olá mundo!";
 
   funcao_Professor();
-  funcaoLARISSA_SCHUMACKER();
+<<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+  funcaoMARIANA_FARIA();
+  funcaoMARIA_JIQUIRIÇ�();
+
+
+=======
+>>>>>>> 1c9a7fb7fd6e15ac500717135bc36f81cba9e4e2
+>>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
 
   return 0;
 }
