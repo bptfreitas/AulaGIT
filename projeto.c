@@ -135,6 +135,7 @@ void funcaoGABRIEL_FERNANDES()
 
 void funcaoIAN_BIANQUINI()
 {
+	
 }
 
 void funcaoISABELLA_AZEVEDO()
@@ -197,6 +198,7 @@ void funcaoPEDRO_CARDINOT()
 
 void funcaoRAFAEL_BADINI()
 {
+	printf("AOPA meu campeão");
 }
 
 void funcaoRHAYAN_FREITAS()
@@ -205,7 +207,7 @@ void funcaoRHAYAN_FREITAS()
 
 void funcaoSAULO_NERY()
 {
-	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne?");
+	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne? AAAAAAAAAAAAAAAAAhhhhhyhhhhhhh");
 }
 
 void funcaoTHIAGO_OLIVEIRA()
