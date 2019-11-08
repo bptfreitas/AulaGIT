@@ -148,6 +148,7 @@ void funcaoKAYLANNE_VIEIRA()
 
 void funcaoLARISSA_SCHUMACKER()
 {
+	printf("Ola");
 }
 
 void funcaoLUCAS_TULER()
@@ -231,6 +232,14 @@ int main(){
   funcao_Professor();
 <<<<<<< HEAD
 <<<<<<< HEAD
+
+=======
+<<<<<<< HEAD
+  funcaoMARIANA_FARIA();
+  funcaoMARIA_JIQUIRIÃ‡Ã();
+
+=======
+<<<<<<< HEAD
   funcaoMYLENA_PIMENTEL();
 =======
 =======
@@ -238,6 +247,7 @@ int main(){
   funcaoMARIANA_FARIA();
   funcaoMARIA_JIQUIRIÃ‡Ã();
   
+>>>>>>> 8f527480583717293fa3ee522636530099da4cb8
 
 <<<<<<< HEAD
 
