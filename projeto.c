@@ -36,6 +36,7 @@ void funcaoJOÃO_CONCEIÇÃO()
 
 void funcaoLUCAS_LIMA()
 {
+    printf("Oi eu sou o Lucas Sancho Lima");
 }
 
 void funcaoLUIZA_ELLER()	
