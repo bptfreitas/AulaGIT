@@ -109,6 +109,7 @@ void funcaoCALEBE_LUZ()
 
 void funcaoCARLOS_BANJAR()
 {
+    printf("Ola, sou Carlos Eduardo Banjar");
 }
 
 void funcaoCAUA_JUNGER()
@@ -125,6 +126,7 @@ void funcaoEVELLYN_ORTEGA()
 
 void funcaoFILIPE_EVANGELISTA()
 {
+	printf("aopa, sou Filipe Evangelista");
 }
 
 void funcaoGABRIEL_FERNANDES()
