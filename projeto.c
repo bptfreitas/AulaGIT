@@ -1,11 +1,12 @@
 #include <iostream>
-
+#include<string>
 using namespace std;
 
 void funcaoANNA_CHAZAN()
 {
     printf("Ola, sou Anna Chazan");
 }
+
 
 void funcaoARTUR_OLIVEIRA()
 {
@@ -175,6 +176,7 @@ void funcaoMARIA_JIQUIRIÇÁ()
 
 void funcaoMARIANA_FARIA()
 {
+    printf("Ola mundo, me chamo Mariana");
 }
 
 void funcaoMAYSA_AQUINO()
@@ -200,6 +202,7 @@ void funcaoRHAYAN_FREITAS()
 
 void funcaoSAULO_NERY()
 {
+	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne?");
 }
 
 void funcaoTHIAGO_OLIVEIRA()
@@ -215,6 +218,9 @@ int main(){
   cout << "Olá mundo!";
 
   funcao_Professor();
+  funcaoMARIANA_FARIA();
+
+
 
   return 0;
 }
