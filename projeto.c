@@ -1,12 +1,11 @@
 #include <iostream>
-#include<string>
+
 using namespace std;
 
 void funcaoANNA_CHAZAN()
 {
     printf("Ola, sou Anna Chazan");
 }
-
 
 void funcaoARTUR_OLIVEIRA()
 {
@@ -100,7 +99,6 @@ void funcaoYURI_SILVA()
 
 void funcaoANA_PORTO()
 {
-	printf("Naclara linda do meu coracao");
 }
 
 void funcaoCALEBE_LUZ()
@@ -109,7 +107,6 @@ void funcaoCALEBE_LUZ()
 
 void funcaoCARLOS_BANJAR()
 {
-    printf("Ola, sou Carlos Eduardo Banjar");
 }
 
 void funcaoCAUA_JUNGER()
@@ -126,7 +123,6 @@ void funcaoEVELLYN_ORTEGA()
 
 void funcaoFILIPE_EVANGELISTA()
 {
-	printf("aopa, sou Filipe Evangelista");
 }
 
 void funcaoGABRIEL_FERNANDES()
@@ -135,7 +131,6 @@ void funcaoGABRIEL_FERNANDES()
 
 void funcaoIAN_BIANQUINI()
 {
-	
 }
 
 void funcaoISABELLA_AZEVEDO()
@@ -164,7 +159,6 @@ void funcaoLUCAS_BADINI()
 
 void funcaoLUCIUS_SILVA()
 {
-	printf("Lucius o mais brabo meno");
 }
 
 void funcaoMARIA_SANGLARD()
@@ -175,13 +169,13 @@ void funcaoMARIA_MARINHO()
 {
 }
 
-void funcaoMARIA_JIQUIRI√á√Å()
+void funcaoMARIA_JIQUIRI√á√()
 {
+	printf("Ola mundo, me chamo Maria Luiza");
 }
 
 void funcaoMARIANA_FARIA()
 {
-    printf("Ola mundo, me chamo Mariana");
 }
 
 void funcaoMAYSA_AQUINO()
@@ -190,16 +184,20 @@ void funcaoMAYSA_AQUINO()
 
 void funcaoMYLENA_PIMENTEL()
 {
+<<<<<<< HEAD
     printf("Eu sou Mylena");
+=======
+
+>>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
 }
 
 void funcaoPEDRO_CARDINOT()
 {
+	printf("Ola, sou Pedro KEPLER Lage Cardinot");
 }
 
 void funcaoRAFAEL_BADINI()
 {
-	printf("AOPA meu campe„o");
 }
 
 void funcaoRHAYAN_FREITAS()
@@ -208,12 +206,13 @@ void funcaoRHAYAN_FREITAS()
 
 void funcaoSAULO_NERY()
 {
-	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne? AAAAAAAAAAAAAAAAAhhhhhyhhhhhhh");
 }
 
 void funcaoTHIAGO_OLIVEIRA()
 {
+cout<<"Oi. Me chamo Thiago.";
 }
+
 
 void funcaoVICTOR_STUTZ()
 {
@@ -226,12 +225,22 @@ int main(){
 
   funcao_Professor();
 <<<<<<< HEAD
+<<<<<<< HEAD
   funcaoMYLENA_PIMENTEL();
 =======
+=======
+>>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
   funcaoMARIANA_FARIA();
+  funcaoMARIA_JIQUIRI√á√();
+  
 
+<<<<<<< HEAD
 
 >>>>>>> 261ddb5202ee2c98210154d03444460848d70dd6
+=======
+=======
+>>>>>>> 1c9a7fb7fd6e15ac500717135bc36f81cba9e4e2
+>>>>>>> f556e3ea41daf03d16a51b0857986125fe6c535f
 
   return 0;
 }
