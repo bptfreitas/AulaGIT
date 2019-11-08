@@ -42,6 +42,7 @@ void funcaoLUCAS_LIMA()
 
 void funcaoLUIZA_ELLER()
 {
+    printf("olá, sou luiza");
 }
 
 void funcaoLUIZA_FRIAS()
