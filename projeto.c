@@ -175,8 +175,9 @@ void funcaoMARIA_MARINHO()
 {
 }
 
-void funcaoMARIA_JIQUIRIÇÁ()
+void funcaoMARIA_JIQUIRIÇ�()
 {
+	printf("Ola mundo, me chamo Maria Luiza");
 }
 
 void funcaoMARIANA_FARIA()
@@ -224,7 +225,7 @@ int main(){
 
   funcao_Professor();
   funcaoMARIANA_FARIA();
-
+  funcaoMARIA_JIQUIRIÇ�();
 
 
   return 0;
