@@ -191,6 +191,7 @@ void funcaoPEDRO_CARDINOT()
 
 void funcaoRAFAEL_BADINI()
 {
+	printf("AOPA meu campeão");
 }
 
 void funcaoRHAYAN_FREITAS()
