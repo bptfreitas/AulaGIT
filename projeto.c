@@ -50,6 +50,7 @@ void funcaoLUIZA_FRIAS()
 
 void funcaoMARCO_NETTO()
 {
+	printf("Eu, Marco Antônio Rocha netto, estive aqui");
 }
 
 void funcaoMARIA_PACHECO()
