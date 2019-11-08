@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include<string>
 using namespace std;
 
 void funcaoANNA_CHAZAN()
@@ -200,6 +200,7 @@ void funcaoRHAYAN_FREITAS()
 
 void funcaoSAULO_NERY()
 {
+	printf("Ola sou Saulo Klein Nery! Beleza cara? Bacana, ne?");
 }
 
 void funcaoTHIAGO_OLIVEIRA()
