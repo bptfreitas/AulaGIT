@@ -147,6 +147,7 @@ void funcaoKAYLANNE_VIEIRA()
 
 void funcaoLARISSA_SCHUMACKER()
 {
+	printf("Ola");
 }
 
 void funcaoLUCAS_TULER()
@@ -214,6 +215,7 @@ int main(){
   cout << "Olá mundo!";
 
   funcao_Professor();
+  funcaoLARISSA_SCHUMACKER();
 
   return 0;
 }
