@@ -3,6 +3,7 @@
 using namespace std;
 
 int funcao(){
+	printf("Eu sou a casa de Deus");
 	return 0;
 }
 
