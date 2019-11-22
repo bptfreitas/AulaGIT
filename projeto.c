@@ -3,6 +3,7 @@
 using namespace std;
 
 int funcao(){
+	printf("Esse eh o print fo aluno 1");
 	printf("Eu sou a casa de Deus");
 	return 0;
 }
