@@ -3,6 +3,7 @@
 using namespace std;
 
 int funcao(){
+	printf("Implemetacao 1");
 	
 	return 0;
 }
