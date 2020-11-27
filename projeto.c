@@ -9,7 +9,7 @@ int funcao(){
 
 
 int main(){
-	printf("Zerando tudo\n");
+	printf("Meu main\n");
 
 	return  0;
 }
