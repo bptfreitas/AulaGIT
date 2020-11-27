@@ -3,13 +3,13 @@
 using namespace std;
 
 int funcao(){
-	printf("Meu nome eh Aluno 1");
+	printf("Meu nome eh Bruno");
 	return 0;
 }
 
 
 int main(){
 	printf("Zerando tudo\n");
-	
+
 	return  0;
 }
