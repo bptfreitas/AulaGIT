@@ -3,7 +3,7 @@
 using namespace std;
 
 int funcao(){
-	printf("Meu nome eh Bruno");
+	printf("Meu nome eh Leonardo");
 	return 0;
 }
 
