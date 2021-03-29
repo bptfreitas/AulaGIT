@@ -11,5 +11,7 @@ int funcao(){
 int main(){
 	printf("Meu main\n");
 
+	funcao();
+
 	return  0;
 }
