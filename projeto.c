@@ -3,7 +3,7 @@
 using namespace std;
 
 int funcao(){
-	printf("Meu nome nao eh Bruno de novo");
+	printf("Meu nome nao eh Bruno de novo aaah");
 	return 0;
 }
 
