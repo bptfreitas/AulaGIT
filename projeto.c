@@ -3,7 +3,9 @@
 using namespace std;
 
 int funcao(){
+
 	printf("Outra frase");
+
 	return 0;
 }
 
