@@ -9,7 +9,7 @@ int funcao(){
 	return 0;
 }
 
-int Funcao2(){
+int Funcao3(){
 	printf("Funcao2");
 	
 }	
