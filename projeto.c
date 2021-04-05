@@ -9,6 +9,11 @@ int funcao(){
 	return 0;
 }
 
+int Funcao2(){
+	printf("Funcao2");
+	
+}	
+
 
 int main(){
 	printf("Meu main\n");
