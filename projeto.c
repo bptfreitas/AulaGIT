@@ -4,7 +4,7 @@ using namespace std;
 
 int funcao(){
 
-	printf("Meu nome eh Bruno");
+	printf("Qual eh o meu nome???");
 	
 	return 0;
 }
